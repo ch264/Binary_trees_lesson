@@ -1,6 +1,5 @@
 # Binary_trees_lesson
 
-<<<<<<< HEAD
 ## Binary Tree vs tries concept
 	A tree is a general structure of recursive nodes.
 	There are many types of trees such as binary tree and balanced tree.
@@ -14,7 +13,7 @@
 ### Binary Tree example
 
 ### Trie example
-=======
+
 ## Binary Tree concept
 
 ## Binary Tree examples
@@ -24,16 +23,16 @@
 - Tree Vocabulary: The topmost node is called root of the tree. The elements that are directly under an element are called its children. The element directly above something is called its parent. For example, ‘a’ is a child of ‘f’, and ‘f’ is the parent of ‘a’. Finally, elements with no children are called leaves.
 
 
-``tree
+tree
       ----
        j    <-- root
      /   \
     f      k  
   /   \      \
- a     h      z    <-- leaves ```
+ a     h      z    <-- leaves 
 
 ### example 2.
->>>>>>> 5494ae11a3778251a37467702bfe6c458814f4fb
+
 
 ## Questions that could be asked on binary trees
 

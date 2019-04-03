@@ -112,9 +112,6 @@ None None'''
 ```
 
 
-### example 2.
-
-
 ## Questions that could be asked on binary trees
 
 ## links to relevant resources

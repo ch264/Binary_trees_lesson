@@ -29,7 +29,7 @@ Print all words in alphabetical order and efficient prefix search or authocomple
 	
 ## Examples
 	
-### Binary Tree example
+### Trie example
 
 ### Trie example
 
@@ -48,8 +48,6 @@ tree
  ```
 
 ## Binary Tree examples
-
-### example 1.
 ```python
 class Node: 
     def __init__(self,key): 

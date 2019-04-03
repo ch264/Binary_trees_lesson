@@ -14,6 +14,32 @@ A trie stores sequences of values rather than individual single values in its st
 ### Binary Tree example
 
 ### Trie example
+Why Trie Data Structure?
+- Searching trees in general favor keys which are of fixed size since this leads to efficient storage management.• However in case of applications which are retrieval based and which call for keys varying length, tries provide better options.• Tries are also called as Lexicographic Search trees.
+
+![Screenshot of Successful code](../https://image.slidesharecdn.com/datastructuretries-160408155555/95/data-structure-tries-9-638.jpg?cb=1460131130) 
+
+The following picture explains construction of trie using keys given in the example below,
+
+                       root
+                    /   \    \
+                    t   a     b
+                    |   |     |
+                    h   n     y
+                    |   |  \  |
+                    e   s  y  e
+                 /  |   |
+                 i  r   w
+                 |  |   |
+                 r  e   e
+                        |
+                        r
+In the picture, every character is of type trie_node_t. For example, the root is of type trie_node_t, and it’s children a, b and t are filled, all other nodes of root will be NULL. Similarly, “a” at the next level is having only one child (“n”), all other children are NULL. The leaf nodes are in blue.
+
+
+
+An article when to use tries for the front-end applications.
+https://hackernoon.com/practical-data-structures-for-frontend-applications-when-to-use-tries-5428a565eba4
 
 ## Binary Tree concept
 

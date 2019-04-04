@@ -198,11 +198,9 @@ https://medium.com/@codingfreak/binary-tree-interview-questions-and-practice-pro
 
 ## links to relevant resources
 
--Data Structures: Trees
+-Data Structures: Trees Video
 https://www.youtube.com/watch?v=oSWTXtMglKE&t=4s
 
--Binary Tree 
-http://www.cs.cmu.edu/~jxc/Binary_Trees.pdf
 
 
 

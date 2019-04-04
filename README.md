@@ -198,6 +198,10 @@ def findLCA(root, n1, n2):
 -Data Structures: Trees
 https://www.youtube.com/watch?v=oSWTXtMglKE&t=4s
 
+- 50 Common Binary Tree Interview Questions 
+https://medium.com/@codingfreak/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f
+
+
 
 
 

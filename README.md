@@ -194,6 +194,8 @@ def findLCA(root, n1, n2):
 ```
 
 ## links to relevant resources
+![](https://www.youtube.com/watch?v=oSWTXtMglKE&t=4s)
+
 
 
 

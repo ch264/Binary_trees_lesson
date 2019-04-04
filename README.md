@@ -117,7 +117,9 @@ None None'''
 ### LCA
 The lowest common ancestor (LCA) for 2 nodes, N1 and N2, is defined as the the lowest node in the tree, where N1 and N2 are both its decendants.
 
-Nodes 4 and 9 have 2 common ancestors, 1 and 2. However, 2 is the lower node, so it is their LCA.
+Nodes 4 and 9 have 2 common ancestors, 1 and 2. 
+
+However, 2 is the lower node, so it is their LCA.
 
 Similarly:
 - 1 is the LCA of nodes 5 and 6 

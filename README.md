@@ -113,7 +113,8 @@ None None'''
 
 
 ## Questions that could be asked on binary trees
-``` 
+
+### LCA
 The lowest common ancestor (LCA) for 2 nodes, N1 and N2, is defined as the the lowest node in the tree, where N1 and N2 are both its decendants.
 
 Nodes 4 and 9 have 2 common ancestors, 1 and 2. However, 2 is the lower node, so it is their LCA.
@@ -121,7 +122,7 @@ Similarly:
 1 is the LCA of nodes 5 and 6 
 3 is the LCA of nodes 3 and 6.
 
-```
+
 ![](https://assets.codebasil.com/problems/8f5b8f90ea3c011c2a3e0bd7809ea6e8.png)
 
 ## links to relevant resources

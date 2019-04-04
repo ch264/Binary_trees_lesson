@@ -129,5 +129,6 @@ Similarly:
 
 ## links to relevant resources
 
+![](https://assets.codebasil.com/problems/8f5b8f90ea3c011c2a3e0bd7809ea6e8.png)
 
 

@@ -35,7 +35,7 @@ Print all words in alphabetical order and efficient prefix search or authocomple
 Why Trie Data Structure?
 - Searching trees in general favor keys which are of fixed size since this leads to efficient storage management.• However in case of applications which are retrieval based and which call for keys varying length, tries provide better options.• Tries are also called as Lexicographic Search trees.
 
-![Screenshot of Successful code](/https://image.slidesharecdn.com/datastructuretries-160408155555/95/data-structure-tries-9-638.jpg?cb=1460131130) 
+![](https://image.slidesharecdn.com/datastructuretries-160408155555/95/data-structure-tries-9-638.jpg?cb=1460131130) 
 
 The following picture explains construction of trie using keys given in the example below,
 

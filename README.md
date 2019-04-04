@@ -118,7 +118,7 @@ The lowest common ancestor (LCA) for 2 nodes, N1 and N2, is defined as the the l
 
 Let's look at this example:
 
-
+![](https://assets.codebasil.com/problems/8f5b8f90ea3c011c2a3e0bd7809ea6e8.png)
 
 Nodes 4 and 9 have 2 common ancestors, 1 and 2. However, 2 is the lower node, so it is their LCA.
 Similarly:
